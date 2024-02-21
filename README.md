@@ -6,7 +6,6 @@ This project is a mobile application developed using React Native and TypeScript
 ## 🎥 Demo
   ![Demo Video](https://drive.google.com/uc?export=download&id=11VqT82vrDHBa93bCb5QlV9OBxTWPxB-8)
   ![Demo Image](https://drive.google.com/uc?export=download&id=1gh2EEfqYvgf9I5rrz1g1Ak1wzy-OxcHd)
-  ![Demo](https://drive.google.com/file/d/1PUvvmJzHbXSHn3S2aQyP5sMaJo7DbEA5/view)
 
 ## 🚀 Key Features
 - 🔍 Search for movies, TV shows, and actors.
