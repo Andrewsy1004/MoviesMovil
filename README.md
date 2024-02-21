@@ -4,8 +4,8 @@
 This project is a mobile application developed using React Native and TypeScript that provides information about movies, TV shows, and actors using The Movie Database (TMDb) API.
 
 ## 🎥 Demo
--  [Application Demo Video](https://drive.google.com/file/d/11VqT82vrDHBa93bCb5QlV9OBxTWPxB-8/view?usp=sharing)
--  [Application Demo Image](https://drive.google.com/file/d/1gh2EEfqYvgf9I5rrz1g1Ak1wzy-OxcHd/view?usp=sharing)
+  ![Demo Video](https://drive.google.com/uc?export=download&id=11VqT82vrDHBa93bCb5QlV9OBxTWPxB-8)
+  ![Demo Image](https://drive.google.com/uc?export=download&id=1gh2EEfqYvgf9I5rrz1g1Ak1wzy-OxcHd)
 
 ## 🚀 Key Features
 - 🔍 Search for movies, TV shows, and actors.
