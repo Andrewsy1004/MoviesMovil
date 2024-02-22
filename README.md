@@ -12,7 +12,6 @@ This project is a mobile application developed using React Native and TypeScript
 - 🎬 View details of movies, TV shows, and actors.
 - 🌟 List of popular, top-rated, and upcoming movies.
 - 📺 List of popular and top-rated TV shows.
-- 👤 List of popular actors.
 
 ## 🛠️ Technologies Used
 - ⚛️ React Native
